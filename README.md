@@ -9,5 +9,8 @@ This visualization contains 5 main elements in HTML:
   4) A bar chart with the top 10 bacteria (described as OTU) in each sample by amount.
   5) A bubble chart with the visualization of all type of bacteria in a sample coding the size for the amount of bacteria, the color for the OTU.
 
+Link to visualization:
+[a link](https://ricardolunas.github.io/belly-button-challenge/)
+
 
 
